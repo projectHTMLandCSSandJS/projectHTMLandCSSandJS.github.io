@@ -156,7 +156,7 @@ weight: 100%;
 
 #top h1 {
 padding-top: 20%;
-
+color:#6E82CB
 }
 
 #top h3{
@@ -244,7 +244,7 @@ width: 100%;
 text-align: center;
 color: #fff;
 }
-#overview h2 {font-size: 4em; color: 6E82CB}
+#overview h2 {font-size: 4em; color: #6E82CB}
 #overview h4 {color: #ccc; font-size:1.8em}
 
   #overview .img {
@@ -300,8 +300,7 @@ h1, h2, h3, h4 {
   font-family: 'Roboto Slab', serif;
   font-weight: lighter;
 }
-#contacts h5{font-size: 3em;
-   color: #6E82CB}
+#contacts h5{font-size: 3em;color: #6E82CB}
 
 #form_input {
   margin-top: 15px;
